@@ -133,3 +133,31 @@ header img {
   font-weight: bold;
   color: hsl(14, 45%, 36%);
 }
+
+@media (max-width: 64em) {
+  html {
+    font-size: 55%;
+  }
+}
+@media (max-width: 48em) {
+  html {
+    font-size: 45%;
+  }
+}
+
+@media (max-width: 27em) {
+  html {
+    font-size: 35%;
+  }
+}
+
+@media (max-width: 23.5em) {
+  html {
+    font-size: 31%;
+  }
+}
+@media (max-width: 20em) {
+  html {
+    font-size: 28%;
+  }
+}
